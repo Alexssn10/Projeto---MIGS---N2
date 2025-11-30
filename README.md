@@ -35,3 +35,9 @@ https://youtu.be/Bs8rr8cL2Bg
 ### Estrutura dos Arquivos
 * CPU_MIGS.circ: Arquivo fonte do circuito no Logisim.
 * Documentacao_Tecnica.pdf: Detalhamento da arquitetura, diagrama de blocos e decisões de projeto.
+
+---
+
+## Link para o git
+https://github.com/Alexssn10/Projeto---MIGS---N2.git
+  
